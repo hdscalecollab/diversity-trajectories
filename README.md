@@ -1,5 +1,5 @@
 # diversity-trajectories
-Repository for "Exploring Racial and Ethnic Diversity Trajectories and Diabetes Prevalence in the United States" code 
+Repository for "Exploring Racial and Ethnic Diversity Trajectories and Diabetes Prevalence in the United States" code; paper here: https://doi.org/10.1016/j.socscimed.2026.119205  
 
 ## File structures in this repository:
 
